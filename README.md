@@ -144,8 +144,8 @@ Before you use the script you must change the `authorization.txt` with your [Dis
 Rscript DisGenNet_evaluation.R --genes top_K_df_path --output results.csv
 ```
 
-- `top_K_df_path`: Path where `gene_association.py` will saved the top_K_df.json.
-- `MODEL_PATH`:  Path to save the results.
+- `top_K_df_path`: Path where the `gene_association.py` will saved the top_K_df.json.
+- `results.csv`:  Path to save the results.
 
 
 
