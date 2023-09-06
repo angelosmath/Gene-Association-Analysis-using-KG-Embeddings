@@ -13,7 +13,7 @@ class kge_dataloader:
                  output_path: str ='kge_data'):
         
         
-        df_triples = pd.read_json(triples_df_file, orient='records', lines=True)
+        df_triples = pd.read_json(triples_df_file)
         self.train_size = train_size
         self.validation = validation
         self.output_path = output_path
