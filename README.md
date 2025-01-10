@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the implementation and code developed for my master's thesis project. 
+This repository contains the implementation and code developed of the project. 
 The project focuses on harnessing text mining techniques to construct a biomedical knowledge graph from curated data of research articles.
 The graph is then analyzed using knowledge graph embedding techniques to uncover relationships between genes.
 
